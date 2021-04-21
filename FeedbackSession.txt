@@ -1,0 +1,11 @@
+Names: 
+- Bao Le
+- Kevin Yang
+- Jake L
+
+Questions:
+- What stats do you plan to use to make predictions?
+- Will you take pre-season into account?
+- Predict entire playoffs or just SB?
+- Will there be much clean up of the data after acquisition?
+- 
